@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🖥 Software Developer<br>📚 AAS Computer Science <br>🌱Currently learning Java<br>🌟 Technology and gaming enthusiast</p>
+<p align="left">🖥 Software Developer<br>📚 AAS Computer Science <br>🌱Currently learning TypeScript/Next.js<br>🌟 Technology and gaming enthusiast</p>
 
 ###
 
